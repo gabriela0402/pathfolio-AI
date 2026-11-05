@@ -1,0 +1,35 @@
+{
+  "candidate_id": "candidate-demo-001",
+  "name": "Ana Souza",
+  "experiences": [
+    {
+      "title": "Bolsista de Iniciação Científica",
+      "organization": "Universidade Exemplo",
+      "description": "Participação em pesquisa envolvendo análise de modelos de inteligência artificial aplicados à correção de textos.",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Análise de dados",
+        "Avaliação de modelos"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Avaliação estruturada de entrevistas comportamentais",
+      "description": "Desenvolvimento de experimentos com modelos de linguagem para avaliar respostas de entrevistas utilizando critérios estruturados.",
+      "skills": [
+        "LLMs",
+        "NLP",
+        "Engenharia de prompts",
+        "Avaliação experimental"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "course": "Ciência da Computação",
+      "institution": "Universidade Exemplo"
+    }
+  ]
+}

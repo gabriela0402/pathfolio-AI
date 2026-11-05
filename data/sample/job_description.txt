@@ -1,0 +1,15 @@
+Estágio em Inteligência Artificial
+
+Buscamos uma pessoa estudante para atuar em projetos de inteligência artificial aplicada.
+
+Requisitos:
+- Conhecimento em Python;
+- Noções de machine learning;
+- Interesse em modelos de linguagem;
+- Capacidade de analisar dados;
+- Boa comunicação para apresentar resultados.
+
+Diferenciais:
+- Experiência com processamento de linguagem natural;
+- Experiência com avaliação de modelos;
+- Participação em projetos de pesquisa.
